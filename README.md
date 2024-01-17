@@ -11,7 +11,7 @@ Make sure NodeJS, MongoDB and Git are Installed.
 
 ## Instalation
 1. Clone repository using `git clone https://github.com/grajoda/node-api-mongodb`
-2. Execute command 'npm install'.
+2. Execute command `npm install`.
 3. Configure the variables in '.env' file.
 4. `cd project/src` and run `node app.js` or `nnodemon app.js` (for instant restart, if 'nodemon' is installed)
 
